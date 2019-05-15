@@ -8,3 +8,9 @@ Huge thanks to [Kenney](https://kenney.nl/) for its adorable and free graphics.
 
 ## Screenshot
 <img src="screenshot.png" width="270" height="480">
+
+## Licensing
+This project is distributed under the MIT license, as described in the LICENSE.md file.
+
+### Art credits
+* Huge thanks to [Kenney](https://kenney.nl/) for its adorable and free graphics.
